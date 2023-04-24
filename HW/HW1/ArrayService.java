@@ -3,7 +3,7 @@ package HW.HW1;
 import java.util.Random;
 
 public class ArrayService <T>{
-    static Random random = new Random();
+    private Random random = new Random();
 
     /** генерирование массива рандомно в заданном диапазоне значений и длине 
      * @param length // длина массива
