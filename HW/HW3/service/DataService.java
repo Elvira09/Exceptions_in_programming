@@ -4,10 +4,10 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-import HW.HW3.MyExeptions.MyExeptionDateFalse;
-import HW.HW3.MyExeptions.MyExeptionEmptyString;
-import HW.HW3.MyExeptions.MyExeptionListSize;
 import HW.HW3.model.Person;
+import HW.HW3.myExeptions.MyExeptionDateFalse;
+import HW.HW3.myExeptions.MyExeptionEmptyString;
+import HW.HW3.myExeptions.MyExeptionListSize;
 
 public class DataService {
     

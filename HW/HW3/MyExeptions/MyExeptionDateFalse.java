@@ -1,4 +1,4 @@
-package HW.HW3.MyExeptions;
+package HW.HW3.myExeptions;
 
 public class MyExeptionDateFalse extends MyExeptions {
 

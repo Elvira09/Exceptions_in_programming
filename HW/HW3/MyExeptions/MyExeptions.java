@@ -1,4 +1,4 @@
-package HW.HW3.MyExeptions;
+package HW.HW3.myExeptions;
 
 public abstract class MyExeptions extends Exception{
     public MyExeptions (String messege){

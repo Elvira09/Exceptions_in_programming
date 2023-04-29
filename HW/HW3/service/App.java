@@ -1,7 +1,7 @@
 package HW.HW3.service;
 
-import HW.HW3.MyExeptions.MyExeptionDateFalse;
-import HW.HW3.MyExeptions.MyExeptionListSize;
+import HW.HW3.myExeptions.MyExeptionDateFalse;
+import HW.HW3.myExeptions.MyExeptionListSize;
 import HW.HW3.ui.View;
 
 public class App {

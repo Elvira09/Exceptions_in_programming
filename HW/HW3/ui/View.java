@@ -2,10 +2,10 @@ package HW.HW3.ui;
 
 import java.util.Scanner;
 
-import HW.HW3.MyExeptions.MyExeptionDateFalse;
-import HW.HW3.MyExeptions.MyExeptionEmptyString;
-import HW.HW3.MyExeptions.MyExeptionListSize;
 import HW.HW3.model.Person;
+import HW.HW3.myExeptions.MyExeptionDateFalse;
+import HW.HW3.myExeptions.MyExeptionEmptyString;
+import HW.HW3.myExeptions.MyExeptionListSize;
 import HW.HW3.service.DataService;
 import HW.HW3.util.WriteFile;
 

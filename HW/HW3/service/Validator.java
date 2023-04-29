@@ -6,8 +6,8 @@ import java.time.format.DateTimeParseException;
 import java.time.format.ResolverStyle;
 import java.util.List;
 
-import HW.HW3.MyExeptions.MyExeptionDateFalse;
-import HW.HW3.MyExeptions.MyExeptionListSize;
+import HW.HW3.myExeptions.MyExeptionDateFalse;
+import HW.HW3.myExeptions.MyExeptionListSize;
 
 public class Validator {
     /*
