@@ -17,7 +17,7 @@ public class Task4 {
     private static Scanner scanner = new Scanner(System.in);
 
     /** Проверка вводимой строки от пользователя 
-     * 
+     * возвращаем введенную строку или  сообщение о вводе пустой строки
      */
     public static void getString(){
         System.out.println("Введите сообщение: ");

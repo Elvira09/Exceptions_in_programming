@@ -1,6 +1,6 @@
 package Seminars.Seminar2;
 
-import javax.imageio.IIOException;
+// import javax.imageio.IIOException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Random;
