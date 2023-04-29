@@ -32,7 +32,7 @@ public class Validator {
      */
     public boolean scannereValidator(List<String> personList) throws MyExeptionListSize {
         if (personList.size() != 6)
-            throw new MyExeptionListSize("", 6, personList.size());
+            throw new MyExeptionListSize("Количество введенных элементов не соответствует необходимому", 6 , personList.size());
         else
             return true;
         // return (personList.size() == 6);
